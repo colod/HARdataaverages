@@ -58,11 +58,10 @@ names(data)<-tolower(names(data))
 objects<-ls()
 rm(list=objects[which(objects[]!="data")])
 rm(objects)
-# 
-uniq_id<-paste(data[,1],data[,2])
-predata<-cbind(uniq_id, data[,c(3:68)])
+#Melts the data into a tall skinny table of variables and their values by activityname and subject number.
 library(reshape2)
 melted<-melt(data,c(1,2))
+#Casts the data into a wide table with the average of each variable over each combination of activity and subject
 tidy<-dcast(melted, activityname + subjectnumber ~ variable, mean, na.rm=TRUE)
 names(tidy)[c(3:81)]<-paste0("average",names(tidy)[c(3:81)])
 write.table(tidy, file="Tidy HAR data averages.txt", row.names=FALSE)

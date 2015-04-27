@@ -1,5 +1,9 @@
+##This data codebook will describe the data variables in the following fashion:
 #variable                                                                
 *description
+
+
+
 #activityname                                                            
 *Name of activity
 #subjectnumber                                                           

@@ -1,168 +1,168 @@
-##This data codebook will describe the data variables in the following fashion:
-#variable                                                                
+#This data codebook will describe the data variables in the following fashion:
+##variable                                                                
 *description
 
 
 
-#activityname                                                            
+##activityname                                                            
 *Name of activity
-#subjectnumber                                                           
+##subjectnumber                                                           
 *Number of Subject performing activity
-#averagetimeofestimatedbodyaccelerationmeanxaxiscomponent                
+##averagetimeofestimatedbodyaccelerationmeanxaxiscomponent                
 *Average time of estimated body acceleration mean x axis component (s)
-#averagetimeofestimatedbodyaccelerationmeanyaxiscomponent                
+##averagetimeofestimatedbodyaccelerationmeanyaxiscomponent                
 *Average time of estimated body acceleration mean y axis component (s)
-#averagetimeofestimatedbodyaccelerationmeanzaxiscomponent                
+##averagetimeofestimatedbodyaccelerationmeanzaxiscomponent                
 *Average time of estimated body acceleration mean z axis component (s)
-#averagetimeofestimatedbodyaccelerationstandarddeviationxaxiscomponent   
+##averagetimeofestimatedbodyaccelerationstandarddeviationxaxiscomponent   
 *Average time of estimated body acceleration standard deviation x axis component (s)
-#averagetimeofestimatedbodyaccelerationstandarddeviationyaxiscomponent   
+##averagetimeofestimatedbodyaccelerationstandarddeviationyaxiscomponent   
 *Average time of estimated body acceleration standard deviation y axis component (s)
-#averagetimeofestimatedbodyaccelerationstandarddeviationzaxiscomponent   
+##averagetimeofestimatedbodyaccelerationstandarddeviationzaxiscomponent   
 *Average time of estimated body acceleration standard deviation z axis component (s)
-#averagetimeofestimatedgravityaccelerationmeanxaxiscomponent             
+##averagetimeofestimatedgravityaccelerationmeanxaxiscomponent             
 *Average time of estimated gravity acceleration meanxaxiscomponent (s)
-#averagetimeofestimatedgravityaccelerationmeanyaxiscomponent             
+##averagetimeofestimatedgravityaccelerationmeanyaxiscomponent             
 *Average time of estimated gravity acceleration meany axis component (s)
-#averagetimeofestimatedgravityaccelerationmeanzaxiscomponent             
+##averagetimeofestimatedgravityaccelerationmeanzaxiscomponent             
 *Average time of estimated gravity acceleration meanz axis component (s)
-#averagetimeofestimatedgravityaccelerationstandarddeviationxaxiscomponent 
+##averagetimeofestimatedgravityaccelerationstandarddeviationxaxiscomponent 
 *Average time of estimated gravity acceleration standard deviation x axis component (s)
-#averagetimeofestimatedgravityaccelerationstandarddeviationyaxiscomponent 
+##averagetimeofestimatedgravityaccelerationstandarddeviationyaxiscomponent 
 *Average time of estimated gravity acceleration standard deviation y axis component (s)
-#averagetimeofestimatedgravityaccelerationstandarddeviationzaxiscomponent 
+##averagetimeofestimatedgravityaccelerationstandarddeviationzaxiscomponent 
 *Average time of estimated gravity acceleration standard deviation z axis component (s)
-#averagetimeoflinearaccelerationmeanxaxiscomponent                       
+##averagetimeoflinearaccelerationmeanxaxiscomponent                       
 *Average time of linear acceleration mean x axis component (s)
-#averagetimeoflinearaccelerationmeanyaxiscomponent                       
+##averagetimeoflinearaccelerationmeanyaxiscomponent                       
 *Average  time of linear acceleration mean y axis component (s)
-#averagetimeoflinearaccelerationmeanzaxiscomponent                       
+##averagetimeoflinearaccelerationmeanzaxiscomponent                       
 *Average  time of linear acceleration mean z axis component (s)
-#averagetimeoflinearaccelerationstandarddeviationxaxiscomponent          
+##averagetimeoflinearaccelerationstandarddeviationxaxiscomponent          
 *Average time of linear acceleration standard deviation x axis component (s)
-#averagetimeoflinearaccelerationstandarddeviationyaxiscomponent          
+##averagetimeoflinearaccelerationstandarddeviationyaxiscomponent          
 *Average time of linear acceleration standard deviation y axis component (s)
-#averagetimeoflinearaccelerationstandarddeviationzaxiscomponent          
+##averagetimeoflinearaccelerationstandarddeviationzaxiscomponent          
 *Average time of linear acceleration standard deviation z axis component (s)
-#averagetimeofbodygyroscopicmovementmeanxaxiscomponent                   
+##averagetimeofbodygyroscopicmovementmeanxaxiscomponent                   
 *Average time of body gyroscopic movement meanx axis component (s)
-#averagetimeofbodygyroscopicmovementmeanyaxiscomponent                   
+##averagetimeofbodygyroscopicmovementmeanyaxiscomponent                   
 *Average time of body gyroscopic movement meany axis component (s)
-#averagetimeofbodygyroscopicmovementmeanzaxiscomponent                   
+##averagetimeofbodygyroscopicmovementmeanzaxiscomponent                   
 *Average time of body gyroscopic movement meanz axis component (s)
-#averagetimeofbodygyroscopicmovementstandarddeviationxaxiscomponent      
+##averagetimeofbodygyroscopicmovementstandarddeviationxaxiscomponent      
 *Average time of body gyroscopic movement standard deviation x axis component (s)
-#averagetimeofbodygyroscopicmovementstandarddeviationyaxiscomponent      
+##averagetimeofbodygyroscopicmovementstandarddeviationyaxiscomponent      
 *Average time of body gyroscopic movement standard deviation y axis component (s)
-#averagetimeofbodygyroscopicmovementstandarddeviationzaxiscomponent      
+##averagetimeofbodygyroscopicmovementstandarddeviationzaxiscomponent      
 *Average time of body gyroscopic movement standard deviation z axis component (s)
-#averagetimeofangularvelocitymeanxaxiscomponent                          
+##averagetimeofangularvelocitymeanxaxiscomponent                          
 *Average time of angular velocity mean x axis component (s)
-#averagetimeofangularvelocitymeanyaxiscomponent                          
+##averagetimeofangularvelocitymeanyaxiscomponent                          
 *Average time of angular velocity mean y axis component (s)
-#averagetimeofangularvelocitymeanzaxiscomponent                          
+##averagetimeofangularvelocitymeanzaxiscomponent                          
 *Average time of angular velocity mean z axis component (s)
-#averagetimeofangularvelocitystandarddeviationxaxiscomponent             
+##averagetimeofangularvelocitystandarddeviationxaxiscomponent             
 *Average time of angular velocity standard deviation x axis component (s)
-#averagetimeofangularvelocitystandarddeviationyaxiscomponent             
+##averagetimeofangularvelocitystandarddeviationyaxiscomponent             
 *Average time of angular velocity standard deviation y axis component (s)
-#averagetimeofangularvelocitystandarddeviationzaxiscomponent             
+##averagetimeofangularvelocitystandarddeviationzaxiscomponent             
 *Average time of angular velocity standard deviation z axis component (s)
-#averagetimeofestimatedbodyaccelerationmagnitudemean                     
+##averagetimeofestimatedbodyaccelerationmagnitudemean                     
 *Average time of estimated body acceleration magnitude mean (s)
-#averagetimeofestimatedbodyaccelerationmagnitudestandarddeviation        
+##averagetimeofestimatedbodyaccelerationmagnitudestandarddeviation        
 *Average time of estimated body acceleration magnitude standard deviation  (s)
-#averagetimeofestimatedgravityaccelerationmagnitudemean                  
+##averagetimeofestimatedgravityaccelerationmagnitudemean                  
 *Average time of estimated gravity acceleration magnitude mean (s)
-#averagetimeofestimatedgravityaccelerationmagnitudestandarddeviation     
+##averagetimeofestimatedgravityaccelerationmagnitudestandarddeviation     
 *Average time of estimated gravity acceleration magnitude standard deviation  (s)
-#averagetimeoflinearaccelerationmagnitudemean                            
+##averagetimeoflinearaccelerationmagnitudemean                            
 *Average time of linear acceleration magnitude mean (s)
-#averagetimeoflinearaccelerationmagnitudestandarddeviation               
+##averagetimeoflinearaccelerationmagnitudestandarddeviation               
 *Average time of linear acceleration magnitude standard deviation  (s)
-#averagetimeofbodygyroscopicmovementmagnitudemean                        
+##averagetimeofbodygyroscopicmovementmagnitudemean                        
 *Average time of body gyroscopic movement magnitude mean (s)
-#averagetimeofbodygyroscopicmovementmagnitudestandarddeviation           
+##averagetimeofbodygyroscopicmovementmagnitudestandarddeviation           
 *Average time of body gyroscopic movement magnitude standard deviation  (s)
-#averagetimeofangularvelocitymagnitudemean                               
+##averagetimeofangularvelocitymagnitudemean                               
 *Average time of angular velocity magnitude mean (s)
-#averagetimeofangularvelocitymagnitudestandarddeviation                  
+##averagetimeofangularvelocitymagnitudestandarddeviation                  
 *Average time of angular velocity magnitude standard deviation  (s)
-#averagefrequencyofestimatedbodyaccelerationmeanxaxiscomponent           
+##averagefrequencyofestimatedbodyaccelerationmeanxaxiscomponent           
 *Average frequency of  estimated body acceleration mean x axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationmeanyaxiscomponent           
+##averagefrequencyofestimatedbodyaccelerationmeanyaxiscomponent           
 *Average frequency of  estimated body acceleration mean y axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationmeanzaxiscomponent           
+##averagefrequencyofestimatedbodyaccelerationmeanzaxiscomponent           
 *Average frequency of  estimated body acceleration mean z axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationstandarddeviationxaxiscomponent 
+##averagefrequencyofestimatedbodyaccelerationstandarddeviationxaxiscomponent 
 *Average frequency of estimated body acceleration standard deviation x axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationstandarddeviationyaxiscomponent 
+##averagefrequencyofestimatedbodyaccelerationstandarddeviationyaxiscomponent 
 *Average frequency of estimated body acceleration standard deviation y axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationstandarddeviationzaxiscomponent 
+##averagefrequencyofestimatedbodyaccelerationstandarddeviationzaxiscomponent 
 *Average frequency of estimated body acceleration standard deviation z axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationmeanfrequencyxaxiscomponent  
+##averagefrequencyofestimatedbodyaccelerationmeanfrequencyxaxiscomponent  
 *Average frequency of estimated body acceleration mean frequency x axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationmeanfrequencyyaxiscomponent  
+##averagefrequencyofestimatedbodyaccelerationmeanfrequencyyaxiscomponent  
 *Average frequency of estimated body acceleration mean frequency y axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationmeanfrequencyzaxiscomponent  
+##averagefrequencyofestimatedbodyaccelerationmeanfrequencyzaxiscomponent  
 *Average frequency of estimated body acceleration mean frequency z axis component (Hz)
-#averagefrequencyoflinearaccelerationmeanxaxiscomponent                  
+##averagefrequencyoflinearaccelerationmeanxaxiscomponent                  
 *Average frequency of linear acceleration mean x axis component (Hz)
-#averagefrequencyoflinearaccelerationmeanyaxiscomponent                  
+##averagefrequencyoflinearaccelerationmeanyaxiscomponent                  
 *Average frequency of linear acceleration mean y axis component (Hz)
-#averagefrequencyoflinearaccelerationmeanzaxiscomponent                  
+##averagefrequencyoflinearaccelerationmeanzaxiscomponent                  
 *Average frequency of linear acceleration mean z axis component (Hz)
-#averagefrequencyoflinearaccelerationstandarddeviationxaxiscomponent     
+##averagefrequencyoflinearaccelerationstandarddeviationxaxiscomponent     
 *Average frequency of linear acceleration standard deviation x axis component (Hz)
-#averagefrequencyoflinearaccelerationstandarddeviationyaxiscomponent     
+##averagefrequencyoflinearaccelerationstandarddeviationyaxiscomponent     
 *Average frequency of linear acceleration standard deviation y axis component (Hz)
-#averagefrequencyoflinearaccelerationstandarddeviationzaxiscomponent     
+##averagefrequencyoflinearaccelerationstandarddeviationzaxiscomponent     
 *Average frequency of linear acceleration standard deviation z axis component (Hz)
-#averagefrequencyoflinearaccelerationmeanfrequencyxaxiscomponent         
+##averagefrequencyoflinearaccelerationmeanfrequencyxaxiscomponent         
 *Average frequency of linear acceleration mean frequency x axis component (Hz)
-#averagefrequencyoflinearaccelerationmeanfrequencyyaxiscomponent         
+##averagefrequencyoflinearaccelerationmeanfrequencyyaxiscomponent         
 *Average frequency of linear acceleration mean frequency y axis component (Hz)
-#averagefrequencyoflinearaccelerationmeanfrequencyzaxiscomponent         
+##averagefrequencyoflinearaccelerationmeanfrequencyzaxiscomponent         
 *Average frequency of linear acceleration mean frequency z axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementmeanxaxiscomponent              
+##averagefrequencyofbodygyroscopicmovementmeanxaxiscomponent              
 *Average frequency of body gyroscopic movement mean x axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementmeanyaxiscomponent              
+##averagefrequencyofbodygyroscopicmovementmeanyaxiscomponent              
 *Average frequency of  body gyroscopic movement mean y axis component (Hz)
-#averagefrequency of bodygyroscopicmovementmeanzaxiscomponent 
+##averagefrequency of bodygyroscopicmovementmeanzaxiscomponent 
 *Average frequency of  body gyroscopic movement mean z axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementstandarddeviationxaxiscomponent 
+##averagefrequencyofbodygyroscopicmovementstandarddeviationxaxiscomponent 
 *Average frequency of  body gyroscopic movement standard deviation x axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementstandarddeviationyaxiscomponent 
+##averagefrequencyofbodygyroscopicmovementstandarddeviationyaxiscomponent 
 *Average frequency of  body gyroscopic movement standard deviation y axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementstandarddeviationzaxiscomponent 
+##averagefrequencyofbodygyroscopicmovementstandarddeviationzaxiscomponent 
 *Average frequency of  body gyroscopic movement standard deviation z axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementmeanfrequencyxaxiscomponent 
+##averagefrequencyofbodygyroscopicmovementmeanfrequencyxaxiscomponent 
 *Average frequency of  body gyroscopic movement mean frequency x axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementmeanfrequencyyaxiscomponent 
+##averagefrequencyofbodygyroscopicmovementmeanfrequencyyaxiscomponent 
 *Average frequency of body gyroscopic movement mean frequency y axis component (Hz)
-#averagefrequencyofbodygyroscopicmovementmeanfrequencyzaxiscomponent 
+##averagefrequencyofbodygyroscopicmovementmeanfrequencyzaxiscomponent 
 *Average frequency of body gyroscopic movement mean frequency z axis component (Hz)
-#averagefrequencyofestimatedbodyaccelerationmagnitudemean 
+##averagefrequencyofestimatedbodyaccelerationmagnitudemean 
 *Average frequency of estimated body acceleration magnitude mean (Hz)
-#averagefrequencyofestimatedbodyaccelerationmagnitudestandarddeviation 
+##averagefrequencyofestimatedbodyaccelerationmagnitudestandarddeviation 
 *Average frequency of estimated body acceleration magnitude standard deviation  (Hz)
-#averagefrequencyofestimatedbodyaccelerationmagnitudemeanfrequency 
+##averagefrequencyofestimatedbodyaccelerationmagnitudemeanfrequency 
 *Average frequency of estimated body acceleration magnitude mean frequency (Hz)
-#averagefrequencyofbodylinearaccelerationmagnitudemean 
+##averagefrequencyofbodylinearaccelerationmagnitudemean 
 *Average frequency of body linear acceleration magnitude mean (Hz)
-#averagefrequencyofbodylinearaccelerationmagnitudestandarddeviation 
+##averagefrequencyofbodylinearaccelerationmagnitudestandarddeviation 
 *Average frequency of body linear acceleration magnitude standard deviation  (Hz)
-#averagefrequencyofbodylinearaccelerationmagnitudemeanfrequency 
+##averagefrequencyofbodylinearaccelerationmagnitudemeanfrequency 
 *Average frequency of body linear acceleration magnitude mean frequency (Hz)
-#averagefrequencyofbodybodygyroscopicmovementmagnitudemean 
+##averagefrequencyofbodybodygyroscopicmovementmagnitudemean 
 *Average frequency of body body gyroscopic movement magnitude mean (Hz)
-#averagefrequencyofbodybodygyroscopicmovementmagnitudestandarddeviation 
+##averagefrequencyofbodybodygyroscopicmovementmagnitudestandarddeviation 
 *Average frequency of body body gyroscopic movement magnitude standard deviation  (Hz)
-#averagefrequencyofbodybodygyroscopicmovementmagnitudemeanfrequency 
+##averagefrequencyofbodybodygyroscopicmovementmagnitudemeanfrequency 
 *Average frequency of body body gyroscopic movement magnitude mean frequency (Hz)
-#averagefrequencyofbodyangularvelocitymagnitudemean 
+##averagefrequencyofbodyangularvelocitymagnitudemean 
 *Average frequency of body angular velocity magnitude mean (Hz)
-#averagefrequencyofbodyangularvelocitymagnitudestandarddeviation 
+##averagefrequencyofbodyangularvelocitymagnitudestandarddeviation 
 *Average frequency of body angular velocity magnitude standard deviation  (Hz)
-#averagefrequencyofbodyangularvelocitymagnitudemeanfrequency 
+##averagefrequencyofbodyangularvelocitymagnitudemeanfrequency 
 *Average frequency of body angular velocity magnitude mean frequency (Hz)

@@ -3,9 +3,6 @@ activity_labels<-read.table("activity_labels.txt", col.names=c("activity_code","
 features<-read.table("features.txt", col.names=c("feature_code", "feature"))
 std_features<-features[grep("std\\(\\)", features$feature),] #Finds the features that have "std()" in the feature name.
 mean_features<-features[grep("mean", features$feature),] #Finds the features that have "mean()" in the feature name.
-#This excludes the additional vectors obtained by averaging the signals in a signal window sample used 
-#on the angle() variable: gravityMean, tBodyAccMean, tBodyAccJerkMean, tBodyGyroMean, tBodyGyroJerkMean as 
-#these are not means of measured data but metaanalysis.
 rel_features<-rbind(std_features,mean_features) #Merges the above into relevant features.
 rel_features<-rel_features[order(rel_features$feature_code),] #Reorders in order of feature code.
 

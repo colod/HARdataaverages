@@ -1,13 +1,23 @@
-variable                                                                description
-activityname                                                            Name of activity
-subjectnumber                                                           Number of Subject performing activity
-averagetimeofestimatedbodyaccelerationmeanxaxiscomponent                *Average time of estimated body acceleration mean x axis component (s)
-averagetimeofestimatedbodyaccelerationmeanyaxiscomponent                *Average time of estimated body acceleration mean y axis component (s)
-averagetimeofestimatedbodyaccelerationmeanzaxiscomponent                *Average time of estimated body acceleration mean z axis component (s)
-averagetimeofestimatedbodyaccelerationstandarddeviationxaxiscomponent   *Average time of estimated body acceleration standard deviation x axis component (s)
-averagetimeofestimatedbodyaccelerationstandarddeviationyaxiscomponent   *Average time of estimated body acceleration standard deviation y axis component (s)
-averagetimeofestimatedbodyaccelerationstandarddeviationzaxiscomponent   *Average time of estimated body acceleration standard deviation z axis component (s)
-averagetimeofestimatedgravityaccelerationmeanxaxiscomponent             *Average time of estimated gravity acceleration meanxaxiscomponent (s)
+variable                                                                
+*description
+activityname                                                            
+*Name of activity
+subjectnumber                                                           
+*Number of Subject performing activity
+averagetimeofestimatedbodyaccelerationmeanxaxiscomponent                
+*Average time of estimated body acceleration mean x axis component (s)
+averagetimeofestimatedbodyaccelerationmeanyaxiscomponent                
+*Average time of estimated body acceleration mean y axis component (s)
+averagetimeofestimatedbodyaccelerationmeanzaxiscomponent                
+*Average time of estimated body acceleration mean z axis component (s)
+averagetimeofestimatedbodyaccelerationstandarddeviationxaxiscomponent   
+*Average time of estimated body acceleration standard deviation x axis component (s)
+averagetimeofestimatedbodyaccelerationstandarddeviationyaxiscomponent   
+*Average time of estimated body acceleration standard deviation y axis component (s)
+averagetimeofestimatedbodyaccelerationstandarddeviationzaxiscomponent   
+*Average time of estimated body acceleration standard deviation z axis component (s)
+averagetimeofestimatedgravityaccelerationmeanxaxiscomponent             
+*Average time of estimated gravity acceleration meanxaxiscomponent (s)
 averagetimeofestimatedgravityaccelerationmeanyaxiscomponent             *Average time of estimated gravity acceleration meany axis component (s)
 averagetimeofestimatedgravityaccelerationmeanzaxiscomponent             *Average time of estimated gravity acceleration meanz axis component (s)
 averagetimeofestimatedgravityaccelerationstandarddeviationxaxiscomponent *Average time of estimated gravity acceleration standard deviation x axis component (s)

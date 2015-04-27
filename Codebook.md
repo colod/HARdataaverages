@@ -1,9 +1,7 @@
 #This data codebook will describe the data variables in the following fashion:
 ##variable                                                                
-*description
-
-
-
+*description of variable and units (if applicable)
+#There was some ambiguity in the original data description, so I might have misunderstood some of the physics. If so, I hope you'll see that I have at least performed the data task of using descriptive variable names.
 ##activityname                                                            
 *Name of activity
 ##subjectnumber                                                           
